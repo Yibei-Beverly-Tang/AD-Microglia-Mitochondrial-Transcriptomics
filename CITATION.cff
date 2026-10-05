@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "AD Microglia Mitochondrial Transcriptomics"
+message: "If you use this repository, please cite the repository and the underlying public dataset."
+authors:
+  - family-names: "Tang"
+    given-names: "Yibei"
+version: 0.1.0
+license: MIT
+keywords:
+  - Alzheimer's disease
+  - microglia
+  - mitochondria
+  - single-cell RNA-seq
